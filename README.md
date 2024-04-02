@@ -1,6 +1,5 @@
 # Analisis Numerico 
 
-Aproximación Discreta por Mínimos Cuadrados
 Este repositorio contiene material relacionado con el tema de Aproximación Discreta por Mínimos Cuadrados, desarrollado para la cátedra de Análisis Numérico del año 2024.
 
 #  Aproximación Discreta por Mínimos Cuadrados

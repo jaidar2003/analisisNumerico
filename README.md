@@ -9,5 +9,7 @@ En el campo del análisis numérico, la Aproximación Discreta por Mínimos Cuad
 # Informacion estudiante
 
 Universidad De Mendoza
+
 Juan Manuel Aidar "62005" 
+
 2024

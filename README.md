@@ -28,6 +28,7 @@
 </body>
 </html>
 
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -62,3 +63,5 @@
 | _*Codeclimate*_ | *_Coverage_* | *_Maintainability_* |
 | :---:   | :---:   | :---: |
 | Status |[![Test Coverage](https://api.codeclimate.com/v1/badges/42d5837a844f641bb24f/test_coverage)](https://codeclimate.com/github/jaidar2003/analisis_numerico_2024/test_coverage) |[![Maintainability](https://api.codeclimate.com/v1/badges/42d5837a844f641bb24f/maintainability)](https://codeclimate.com/github/jaidar2003/analisis_numerico_2024/maintainability)
+
+#Aidar

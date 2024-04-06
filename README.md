@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tema 5: Aproximación Continua por Mínimos Cuadrados</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    .math {
-      font-style: italic;
-    }
-    .subscript {
-      vertical-align: sub;
-      font-size: smaller;
-    }
-    .header {
-      font-weight: bold;
-      font-size: 20px;
-      margin-bottom: 10px;
-    }
-    .details {
-      font-size: 16px;
-      margin-bottom: 20px;
-    }
-    .emphasis {
-      font-style: italic;
-    }
-  </style>
-</head>
-<body>
+
   <h1 align="center">TEMA 5</h1>
 
   <h2>Análisis Numérico</h2>
